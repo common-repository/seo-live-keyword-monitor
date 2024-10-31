@@ -1,0 +1,3 @@
+#kwaTable {width:100%;}
+#kwaTable th.alignLeft,#kwaTable td.alignLeft {text-align:left}
+#kwaTable th.alignRight,#kwaTable td.alignRight {text-align:right}
